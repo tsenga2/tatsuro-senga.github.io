@@ -271,6 +271,32 @@ strong {
     font-size: 16px;
 }
 
+.notice {
+    margin: 22px 0;
+    padding: 16px 18px;
+    background: #fdf6ec;
+    border-left: 3px solid var(--navy);
+}
+
+.notice h2 {
+    font-size: 17px;
+    margin: 0 0 8px;
+    padding: 0;
+    border: 0;
+    color: var(--navy-dk);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.notice h2::after {
+    display: none;
+}
+
+.notice p {
+    margin: 0;
+    font-size: 16px;
+}
+
 /* Buttons (CV link) */
 .button {
     display: inline-block;
