@@ -279,7 +279,7 @@ strong {
 }
 
 .notice h2 {
-    font-size: 17px;
+    font-size: 15px;
     margin: 0 0 8px;
     padding: 0;
     border: 0;
@@ -294,7 +294,7 @@ strong {
 
 .notice p {
     margin: 0;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 /* Buttons (CV link) */
